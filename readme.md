@@ -1,5 +1,5 @@
-技术栈：room composeui
-创建一本书，点击首页添加按钮，进行添加
-根据i‘d查找书：点击查找，进入查找页面，输入书的编号，进行查找
-长按列表条目进行删除
-单击列表条目进入修改书籍详情页面
+1. The technology stack uses the room database, composeui
+2. To create a new book, click the "Add" button on the home page to enter the "Create a book" page
+3. Search function, click the search button on the home page, enter the search page, enter the book number in the input box, search and display the book information
+4. Modify function Click the list entry on the home page to enter the details page to modify the book information
+5. Delete function, long press the home page list entry, pop-up prompts whether to delete the book
