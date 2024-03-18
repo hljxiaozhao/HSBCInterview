@@ -27,7 +27,7 @@ fun UpdataScreen (navController: NavHostController, viewModel: BookViewModel,sel
 
     Column(modifier = Modifier.padding(16.dp)) {
 
-        TitleBar(title = "创建一本新书"){
+        TitleBar(title = "修改一本新书"){
             navController.popBackStack()
         }
 
